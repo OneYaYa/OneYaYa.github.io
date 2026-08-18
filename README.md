@@ -1,3 +1,3 @@
-# Yue Pan
+# Yue Pan — Personal Homepage
 
-Personal homepage: https://oneyaya.github.io/
+Static site for https://oneyaya.github.io/.
